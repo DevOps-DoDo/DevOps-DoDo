@@ -2,7 +2,7 @@
 
 I'm Dominic, but you can call me DoDo. Here's my profile!
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/" width="400" alt="DoDo's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DevOps-DoDo/DevOps-DoDo/blob/main/devcard.svg" width="400" alt="DoDo's Dev Card"/></a>
 
 <!--
 **DevOps-DoDo/DevOps-DoDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
